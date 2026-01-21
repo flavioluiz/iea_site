@@ -14,7 +14,7 @@ Este repositório contém apenas os arquivos HTML, CSS, JavaScript e assets est�
 
 ## 📅 Última atualização
 
-Gerado em: $(date +"%Y-%m-%d %H:%M:%S")
+Gerado em: 2026-01-21 15:04:02
 
 ## 📞 Suporte
 
